@@ -1,0 +1,72 @@
+#form{
+    width: 600px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+input{
+    width: 200px;
+    height: 20px;
+    padding: 5px;
+    font-size: 14px;
+}
+
+textarea{
+    width: 200px;
+    height: 60px;
+    padding: 5px;
+    font-size: 14px;
+    resize: none;
+}
+
+#button{
+    width: 100px;
+    height: 40px;
+    color: white;
+    background-color: skyblue;
+    border-radius: 10px;
+    margin-top: 5px;
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 36px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 15px;
+    margin-bottom: 5px;
+}
+
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    font-weight: normal;
+    text-align: center;
+    margin-top: 0;
+}
+
+/* #description{
+    height: 100px;
+    width: 200px;
+}  */
+
+#cards{
+    height: 300px;
+    width: 400px;
+    display: inline-block;
+}
+
+.card{
+    height: 200px;
+    width: 350px;
+    background-color: skyblue;
+    border: solid 1px black;
+    margin: 2px;
+    display: inline-block;
+}
+
+#back{
+    padding: 20px;
+    vertical-align: middle;
+    display: none;
+}
